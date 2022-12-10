@@ -16,7 +16,7 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 
 ![Capture Nitro](https://i.discord.fr/bRo.png)
 
-## Nitro Classic ($4,99 par mois / $49,99 par an)
+## Nitro Classique ($2,99 par mois / $29,99 par an)
 Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
 
 L'abonnement octroie des avantages supplémentaires, comme : 
